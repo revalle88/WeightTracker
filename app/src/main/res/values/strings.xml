@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeightTracker</string>
+    <string name="activity_text_2">Сделать взвешивание</string>
+    <string name="addWeightEditText">Ввести вес</string>
+    <string name="activity_main_button_stat">статистика</string>
+    <string name="activity_main_button_addweight">добавить взвешивание</string>
+
+</resources>
